@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">btdemo</string>
+    <string name="title_activity_main">btdemo</string>
+    <string name="package_name">com.btdemo.app</string>
+    <string name="custom_url_scheme">com.btdemo.app</string>
+</resources>
